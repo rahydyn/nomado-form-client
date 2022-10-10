@@ -1,0 +1,31 @@
+{
+    "formId": "1AEjMA7Wxtn8yPHXIhxWUzig22f8JIURa60Rk-1ZnUCY",
+    "info": {
+        "title": "インタビューフォーム",
+        "documentTitle": "インタビ",
+        "isionId": "00000017",
+        "responderUri": "https://docs.google.com/forms/d/e/1FAIpQLSeYiFISfpboxj0wOXo1HIU91tMNjI0JJjjDlE3vj1ICmY1_Kg/viewform",
+        "items": [
+            {
+                "itemId": "0d72c87a",
+                "title": "お名前",
+                "questionItem": {
+                    "question": {
+                        "questionId": "57ab5e22",
+                        "requd": "True",
+                        "textQuestion": {}
+                    }
+                }
+            },
+            {
+                "itemId": "2d5367ab",
+                "title": "趣味趣味に関する",
+                "questionItem": {
+                    "question": {
+                        "questionId": "b5f",
+                        "textQuestion": {}
+                    }
+                }
+            }
+        ]
+}
